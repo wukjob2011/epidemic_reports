@@ -1,5 +1,5 @@
 {
-  "users": [
+  "reports": [
     {
       "Account": "liuys5",
       "DeptCode": "TC2-XT",
@@ -11,42 +11,17 @@
       "Gwmc": "开发工程师（高级）",
       "Phone": "************",
       "WorkPlace": "重庆",
-      "NewStatus": null,
       "UpTime": "2022-05-06",
       "Province": "重庆市",
       "City": "重庆城区",
       "Region": "渝北区",
       "WzStatus": "是",
-      "NowStatus": null,
-      "IsLeaveCompany": null,
-      "NowNear": null,
-      "Wz_sProvince": null,
-      "Wz_sCity": null,
-      "Wz_sRegion": null,
-      "Wz_eProvince": null,
-      "Wz_eCity": null,
-      "Wz_eRegion": null,
-      "Wz_stime": null,
-      "Wz_etime": null,
-      "Wz_ptime": null,
-      "Wz_travel": null,
-      "Wz_reson": null,
       "Status": "正常(无隔离记录)",
       "CommunityRecord": "否",
-      "GLstime": null,
-      "GLetime": null,
-      "GLstreet": null,
-      "GLcommunity": null,
-      "GLaddress": null,
-      "GLremark": null,
-      "GLremark2": null,
       "FamilyStatus": "否",
       "IsToCompany": "否",
       "Wz_remark": "绿色",
-      "Temperature": "36.3",
-      "Province2": null,
-      "City2": null,
-      "Region2": null
+      "Temperature": "36.3"
     }
   ]
 }

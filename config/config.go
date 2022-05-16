@@ -1,10 +1,10 @@
 package config
 
 type Config struct {
-	Users []User `json:"users"`
+	Reports []Report `json:"reports"`
 }
 
-type User struct {
+type Report struct {
 	Account         string `json:"Account"`
 	DeptCode        string `json:"DeptCode"`
 	CompanyName     string `json:"CompanyName"`
